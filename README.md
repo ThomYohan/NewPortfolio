@@ -1,4 +1,4 @@
-# Chris Otto's Blog
+# Thomas Yohannes's Blog
 
 ## Build and Deploy
 

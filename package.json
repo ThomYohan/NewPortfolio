@@ -1,7 +1,7 @@
 {
   "name": "gatsby-chris-otto-dev",
   "version": "1.0.0",
-  "author": "Chris Otto <chris.otto6@gmail.com>",
+  "author": "Thomas Yohannes",
   "license": "MIT",
   "scripts": {
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
@@ -27,12 +27,10 @@
     "@mdx-js/react": "^1.6.22",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
-    "algoliasearch": "^4.8.5",
     "antd": "^4.12.3",
     "fontfaceobserver": "^2.0.13",
     "gatsby": "^2.32.3",
     "gatsby-image": "^2.11.0",
-    "gatsby-plugin-algolia": "^0.16.3",
     "gatsby-plugin-catch-links": "^2.10.0",
     "gatsby-plugin-feed-mdx": "^1.0.1",
     "gatsby-plugin-google-analytics": "^2.11.0",
